@@ -1,6 +1,7 @@
 # JSON-Parser-for-ASI-ASI_LookUP-
 
-![ASI](https://github.com/rwashim/JSON-Parser-for-ASI-ASI_LookUP-/assets/44086222/526a2da2-ba9e-4132-98ba-5be4173d90da)
+![ASI](https://github.com/rwashim/JSON-Parser-for-ASI-ASI_LookUP-/assets/44086222/47d4e50e-5e0f-4639-ab7f-556e0a44a626)
+
 
 
 The script is designed to retrieve and process information from the ASI platform, generating detailed reports in Excel workbooks. For data parsing and organizing, it only accepts ASI JSON output files, and for sheet indexing, it only accepts Excel workbook (.xlsx) files. 
