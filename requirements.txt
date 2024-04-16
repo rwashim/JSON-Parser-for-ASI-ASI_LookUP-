@@ -1,0 +1,8 @@
+pandas
+json
+argparse
+sys
+openpyxl
+xlwings
+XlsxWriter
+win32com
