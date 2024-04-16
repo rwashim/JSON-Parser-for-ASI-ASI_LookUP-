@@ -1,4 +1,4 @@
-# JSON-Parser-for-ASI-ASI_LookUP
+# JSON-Parser-for-ASI_LookUP
 
 ![ASI](https://github.com/rwashim/JSON-Parser-for-ASI-ASI_LookUP-/assets/44086222/47d4e50e-5e0f-4639-ab7f-556e0a44a626)
 
